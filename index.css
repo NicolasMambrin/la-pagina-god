@@ -25,12 +25,10 @@ h1{
     display: inline-block;
     width: 600px;
     height: 250px;
-
-}
-.imagen-de-fondo{
-    background-image: url(./Assets/Imagenes/NvN.gif);
-    height: 100hv;
-    width: 100vh;
-
-
-}
+   }
+   body {
+    background-image: url(https://areajugones.sport.es/wp-content/uploads/2022/02/hunter-x-hunter-gungi-1080x609.jpg);
+    width: 100vw;
+    height: 100vh;
+    }
+   
