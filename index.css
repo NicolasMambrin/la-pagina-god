@@ -27,3 +27,7 @@ h1{
     height: 250px;
 
 }
+.imagen-de-fondo{
+    background-image: (url(./Assets/Imagenes/NvN.gif))
+
+}
