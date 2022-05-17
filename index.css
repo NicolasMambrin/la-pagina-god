@@ -28,6 +28,9 @@ h1{
 
 }
 .imagen-de-fondo{
-    background-image: (url(./Assets/Imagenes/NvN.gif))
+    background-image: url(./Assets/Imagenes/NvN.gif);
+    height: 100hv;
+    width: 100vh;
+
 
 }
