@@ -24,11 +24,18 @@ h1{
 .bocayoteamo{
     display: inline-block;
     width: 600px;
-    height: 250px;
-   }
-   body {
-    background-image: url(https://areajugones.sport.es/wp-content/uploads/2022/02/hunter-x-hunter-gungi-1080x609.jpg);
+    height: 200px;
+}
+body {
+    background-image: url(https://www.kindpng.com/picc/m/341-3410548_smiling-imp-png-download-devil-emoji-discord-transparent.png);
     width: 100vw;
     height: 100vh;
-    }
-   
+    background-position: center;
+    background-size: 3%;
+    background-repeat:repeat;
+}
+.cuadradogamer{
+background-color: #c237db;
+width: 200px;
+height: 200px;
+}
