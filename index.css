@@ -2,45 +2,109 @@
     font-family: 'GODOFWAR';
     src: url(./Assets/Fuentes/GODOFWAR.TTF);
 }
-h1{
+
+h1 {
     color: black;
     font-family: 'GODOFWAR';
 }
-#godno{
+
+#godno {
     color: red;
 }
-.COMO{
+
+.COMO {
     color: fuchsia;
 }
-.copy{
+
+.copy {
     color: crimson;
 }
-.fa{
+
+.fa {
     width: 600px;
     height: 50px;
     background-color: blue;
     border-radius: 10px;
 }
-.fam{
+
+.fam {
     width: 600px;
     height: 50;
     background-color: gold;
 }
-.bocayoteamo{
+
+.bocayoteamo {
     display: inline-block;
     width: 600px;
     height: 200px;
 }
+
 body {
     background-image: url(https://www.kindpng.com/picc/m/341-3410548_smiling-imp-png-download-devil-emoji-discord-transparent.png);
     width: 100vw;
     height: 100vh;
     background-position: center;
     background-size: 3%;
-    background-repeat:repeat;
+    background-repeat: repeat;
 }
-.cuadradogamer{
-background-color: #c237db;
-width: 200px;
-height: 200px;
+
+.cuadradogamer {
+    background-color: #c237db;
+    width: 200px;
+    height: 200px;
+}
+
+.cajarara {
+    /*  border: 10px;
+    border-color: black;
+    border-style: solid;
+    padding: 100px;*/
+    /*border: 10px black solid;
+    padding: 50px;*/
+    /*border-bottom: 10px blueviolet solid;
+    border-top: 20px blue dashed;
+    border-left: 5px green dotted;
+    border-right:40px red inset;*/
+    border-width: 10px 5px 15px 10px;
+    border-color: black; 
+    border-style: dashed;
+    /*padding-top: ;
+    padding-left: ;
+    padding-bottom: ;
+    padding-right: ;*/
+    padding: 50px 10px 30px 15px
+}
+.cuadrado{
+    width: 200px;
+    height: 200px;
+    display: inline-block;
+}
+.cuadrado1{
+background-color: red;
+margin-left: 100px;
+}
+.cuadrado2{
+background-color: blue;
+margin-left: 50px;
+}
+.cuadrado3{
+border: 20px black solid;
+display:block;
+margin-left: 200px;
+overflow: auto;
+}
+.cuadrado4{
+    background-color: blueviolet;
+}
+.cuadrado5{
+    background-color: blueviolet;
+    position: relative;
+    top: 100px
+}
+.cuadrado6{
+    background-color: green;
+    position: absolute;
+    top: 2300px;
+    left: 100;
+    opacity: 50%;
 }
