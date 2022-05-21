@@ -108,3 +108,20 @@ overflow: auto;
     left: 100;
     opacity: 50%;
 }
+.fakium{
+    position: sticky;
+    top: 0px
+    
+}
+.losamongas{
+height: 100vh;
+width: 100%;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+}
+.amongas{
+    height: 300px;
+    width: 20%;
+    object-fit: contain;
+}
